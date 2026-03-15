@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\TP_MODUL4_103022400075\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CD4379-1278-2736-3A4B-E21A69B21FDB}|TP_MODUL4_103022400075\\TP_MODUL4_103022400075.csproj|c:\\users\\user\\source\\repos\\tp_modul4_103022400075\\tp_modul4_103022400075\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CD4379-1278-2736-3A4B-E21A69B21FDB}|TP_MODUL4_103022400075\\TP_MODUL4_103022400075.csproj|solutionrelative:tp_modul4_103022400075\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CD4379-1278-2736-3A4B-E21A69B21FDB}|TP_MODUL4_103022400075\\TP_MODUL4_103022400075.csproj|c:\\users\\user\\source\\repos\\tp_modul4_103022400075\\tp_modul4_103022400075\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CD4379-1278-2736-3A4B-E21A69B21FDB}|TP_MODUL4_103022400075\\TP_MODUL4_103022400075.csproj|solutionrelative:tp_modul4_103022400075\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TP_MODUL4_103022400075\\TP_MODUL4_103022400075\\KodePos.cs",
+              "RelativeDocumentMoniker": "TP_MODUL4_103022400075\\KodePos.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TP_MODUL4_103022400075\\TP_MODUL4_103022400075\\KodePos.cs",
+              "RelativeToolTip": "TP_MODUL4_103022400075\\KodePos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:08:27.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\TP_MODUL4_103022400075\\TP_MODUL4_103022400075\\Program.cs",
+              "RelativeDocumentMoniker": "TP_MODUL4_103022400075\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\TP_MODUL4_103022400075\\TP_MODUL4_103022400075\\Program.cs",
+              "RelativeToolTip": "TP_MODUL4_103022400075\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:05:08.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
