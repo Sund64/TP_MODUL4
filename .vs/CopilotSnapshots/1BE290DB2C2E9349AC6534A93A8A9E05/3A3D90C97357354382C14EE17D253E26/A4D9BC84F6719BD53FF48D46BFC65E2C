@@ -21,11 +21,3 @@ foreach (var k in kelurahans)
 {
     Console.WriteLine($"{k} => {KodePos.getKodePos(k)}");
 }
- 
-Console.WriteLine();
-Console.WriteLine("Demo DoorMachine (state-based):");
-var door = new DoorMachine();
-
-door.BukaPintu();
-door.KunciPintu();
-door.BukaPintu();
